@@ -1,4 +1,3 @@
-layout_spectrum: 0.03580215550027788
 typography_spectrum: 0.6291840989142656
 color:
   brandStrength: 0.14162662299349904
@@ -11,4 +10,6 @@ color:
     - '#DEAD72'
     - '#B4774B'
     - '#8B9396'
+layout_spectrum: 0.03580215550027788
 name: Mikis Music
+title: MIKIS MUSIC
